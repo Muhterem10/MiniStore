@@ -13,6 +13,7 @@ git branch ....
 git clone
 git git.....
 Mhtrm Branch islem tamam
+Mhtrm Branch islem tamam
 
 git add README.md
 git commit -m "first commit"
